@@ -13,27 +13,6 @@ This project leverages machine learning techniques to analyze Fitbit data, aimin
 * **Predictive Modeling**: Predicts step counts using machine learning models
 * **Interactive App**: Built with Streamlit for real-time predictions based on user inputs
 
-## Project Structure
-
-```
-.
-├── data/
-│   ├── fitbit_data.csv    # Example dataset
-│   ├── processed_data.csv # Preprocessed data
-├── models/
-│   ├── random_forest_model.pkl  # Trained Random Forest model
-├── app/
-│   ├── streamlit_app.py   # Streamlit app for predictions
-├── scripts/
-│   ├── data_preprocessing.py # Data cleaning and scaling
-│   ├── clustering_analysis.py # K-Means clustering implementation
-│   ├── feature_importance.py  # Random Forest analysis
-│   ├── predictive_modeling.py # Predictive model pipeline
-├── README.md              # Project documentation
-├── requirements.txt       # Python dependencies
-└── LICENSE               # License information
-```
-
 ## Getting Started
 
 ### Prerequisites
